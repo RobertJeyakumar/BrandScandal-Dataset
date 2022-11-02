@@ -1,0 +1,16 @@
+# Title of Dataset: Influence of Customer Relationship Intensity on Customer Tolerance of Brand Scandals
+---
+
+
+## Description of the Data and file structure
+
+It is an Excel file, containing data from part of a questionaire survey. A quota sampling method was applied with strict control on the age categories and gender grouping of respondents; with a total sample of 1,000 respondents.  
+It specifically focuses on a set of items describing types brand scandals that can happen in real business practice. Respondents were firstly asked a question about the initial probability they choose a product from the brand in the next five years, and then about their future (re)purchase intention: "If the brand is associated with the following scandals, what is the probability that you will choose it (again)?" Respondents were supposed to mark one of the offered answers: 0% ("I will definitely never choose the brand (again)"), 25%, 50%, 75%, and 100% ("I will definitely choose the brand (again)"). 
+Customer response to brand scandals is studied in terms of degrees describing customer relationship intensity during the customer lifecycle. There are six following degrees: "Initial stage" (the lowest), "Awareness", "Identification", "Satisfaction", "Loyalty", and "Recommendations" (the highest). 
+
+
+## Sharing/access Information
+
+Links to other publicly accessible locations of the data: NONE
+
+Was data derived from another source? NO
